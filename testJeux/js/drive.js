@@ -522,9 +522,7 @@ window.onload = function() {
                 if(hooper.y >= 185) {
                     hooper.y -=2;
                     hooper.t -=0.2;
-
-                    if (hooper.y >= 300 && hooper.y <= 325) {
-                        
+                    if (hooper.y >= 300 && hooper.y <= 325) { 
                         hooperLeftDirection = true;
                         hooperRightDirection = true;
                     } else {
