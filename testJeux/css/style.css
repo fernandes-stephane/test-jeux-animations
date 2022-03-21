@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+#anime{
+    margin: auto;
+    border-radius: 4px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.08),0 3px 6px rgba(0,0,0,0.15);
+    opacity: 1;
+    height: 400px;
+    width: 400px;
+}
+
+#rearPaint {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+#frame {
+  margin: auto;
+}
