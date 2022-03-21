@@ -91,8 +91,6 @@ window.onload = function() {
             ctx.lineWidth = 2;
             ctx.fillStyle = 'rgba(196, 157, 157)';
             roundRect(this.x, this.y, this.w, this.h, 8);
-            ctx.fill();
-            ctx.stroke();
             ctx.font= `16px ${ss}`;
             ctx.textAlign="center";
             ctx.textBaseline = 'middle';
