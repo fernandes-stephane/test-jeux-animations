@@ -1,3 +1,4 @@
+# only works with Python 3.10
 import random
 import time
 
